@@ -1,4 +1,4 @@
-##Détection de Fraude Bancaire (ML Supervisé)
+Détection de Fraude Bancaire (ML Supervisé)
 
 Ce projet présente un pipeline complet de Machine Learning capable de traiter des données transactionnelles brutes et bruitées pour identifier des comportements frauduleux.
 
